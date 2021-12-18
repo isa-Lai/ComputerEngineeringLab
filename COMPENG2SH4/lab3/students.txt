@@ -1,0 +1,6 @@
+5
+1200 Isaac Newton
+4580 Alan Turing
+6547 Nikola Tesla
+7000 Elon Musk
+9000 Elvis Presley
