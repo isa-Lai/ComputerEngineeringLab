@@ -17,6 +17,6 @@ McMaster Engineering Lab Code Achieve
 
 ###**Do Not** copy any code from this repository.
 ###Please follow the Mcmaster Academic Integrity Policy and the Code of Conduct of the Professional Engineers of Ontario.
-Copying my code will have you results in avademic dishonest. 
+Copying my code will have you results in academic dishonest. 
 
 Partial code credits to McMaster Faculty of Engineering. 
