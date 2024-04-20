@@ -1,0 +1,39 @@
+call back
+
+Start Simulation
+---------------------------------------Configuration Summary--------------------------------------------
+Rank count   :   1
+Bank count   :   8
+Row count    :   32768
+Column count :   1024
+	Address Mapping 	: 425
+	Request Queue 		: 1 perREQ 0 WBuffer 0
+	Request Scheduler 	: FCFS
+	Command Generator 	: OPEN
+	Command Queue 		: 8 perREQ 0
+	Command Scheduler 	: PUSH
+Requestor 0 End @ 7161239
+Requestor 1 End @ 16425948
+==== Channel [0] ====
+
+
+Statistics Assuming Cores are In Order:
+
+
+REQ under analysis: Open Request Ratio : 0.936685
+   
+REQ under analysis: WC Open Read : 29	WC Close Read : 54	WC Open Write : 11	WC Close Write : 11
+   
+-----------------------------------------Simulation Summary---------------------------------------------
+Bandwidth = 6234.04 MB/s
+   
+Number of Open Read     :  841280
+Number of Close Read	:  58721
+Number of Open Write    :  95405
+Number of Close Write   :  4594
+   
+//// Channel [0] ////
+-----------------------------------------Summary Per Requestor------------------------------------------- 
+Requestor 0: Worst-Case 448 Done 1000000 Request From 1000000 Computation Time = 0 @ 1.25
+Requestor 1: Worst-Case 688 Done 1000000 Request From 1000000 Computation Time = 0 @ 1.25
+Simulation End @ 16425949 time = 10268163
