@@ -1,6 +1,11 @@
 # Computer Engineering Lab Code
 McMaster Engineering Lab Code Achieve
+## Note
+### **Do Not** copy any code from this repository.
+### Please follow the Mcmaster Academic Integrity Policy and the Code of Conduct of the Professional Engineers of Ontario.
+Copying my code will have you results in academic dishonest. 
 
+Partial code credits to McMaster Faculty of Engineering. 
 
 ## Included Course
 - COMPENG 2DX4: Microprocessor Systems Project
@@ -9,14 +14,12 @@ McMaster Engineering Lab Code Achieve
 - COMPENG 3DQ5: Digital Systems Design
 - COMPENG 3DY4: Computer Sys Integration Project
 - COMPENG 3SK3: Comp. Aided Engineering
+- COMPENG 4DK4: Computer Communication Networks
+- COMPENG 4DM4: Computer Architecture
+- COMPENG 4DN4: Advanced Internet Communications
+- COMPENG 4DS4: Embedded Systems
 - ELECENG 3EJ4: Electronic Devices and Circuits II
 - ELECENG 3TP3: Signal & Systems
 - ELECENG 3TR3: Communication Systems
 
-## Note
 
-### **Do Not** copy any code from this repository.
-### Please follow the Mcmaster Academic Integrity Policy and the Code of Conduct of the Professional Engineers of Ontario.
-Copying my code will have you results in academic dishonest. 
-
-Partial code credits to McMaster Faculty of Engineering. 
